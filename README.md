@@ -1,6 +1,6 @@
 # Hola, soy Ronny L. Díaz López 👋
 
-> **ES:** ingeniero de aplicación que convierte datos de campo en decisiones:
+> **ES:** Ingeniero Electricista de Aplicación | Automatización · IoT · Eficiencia Energética, que Convierto datos de campo en decisiones:
 > diagnostico fallas por causa raíz, integro equipos y sistemas, automatizo
 > procesos, prototipo firmware, valido con metrología y cuantifico eficiencia
 > energética — y lo demuestro con demos que se ejecutan.
