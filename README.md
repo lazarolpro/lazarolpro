@@ -1,15 +1,9 @@
-# Hola, soy Ronny Diaz Lopez 👋
+# Hola, soy Ronny L. Díaz López 👋
 
 > **ES:** ingeniero de aplicación que convierte datos de campo en decisiones:
 > diagnostico fallas por causa raíz, integro equipos y sistemas, automatizo
 > procesos, prototipo firmware, valido con metrología y cuantifico eficiencia
 > energética — y lo demuestro con demos que se ejecutan.
-
-> **PT:** profissional de engenharia de aplicação focado em resultados que
-> transforma dados de campo em decisões: diagnostico falhas por causa raiz,
-> integro equipamentos e sistemas, automatizo processos, faço prototipagem de
-> firmware, valido com metrologia e analiso eficiência energética — tudo
-> comprovado com demos que rodam.
 
 ## Portafolio
 
@@ -29,10 +23,10 @@ Seis capacidades, cada una con un repo que se clona, corre y produce evidencia:
 ## Stack
 
 Python 3 · ESP32/Arduino · IoT (ESP32, sensores, MQTT) · integración de APIs ·
-metrología · eficiencia energética · documentación técnica (ES/PT/EN).
+metrología · eficiencia energética · documentación técnica (ES solamente).
 
 ## Contacto
 
 - GitHub: [@lazarolpro](https://github.com/lazarolpro)
 - LinkedIn: _(por completar)_
-- Email: _(por completar)_
+- Email: ronnynations21@gmail.com
