@@ -40,4 +40,4 @@ React y FastAPI · Odoo CE · Git/GitHub · documentación y formación técnica
 - GitHub: [@lazarolpro](https://github.com/lazarolpro)
 - LinkedIn: [linkedin.com/in/ronnydlop](https://linkedin.com/in/ronnydlop)
 - Email: ronnynations21@gmail.com
-- Ubicación: Montblanc, Tarragona (disponibilidad inmediata; presencial, híbrido o remoto)
+- Ubicación: Tarragona, Cataluña (España) — disponibilidad inmediata; presencial, híbrido o remoto
