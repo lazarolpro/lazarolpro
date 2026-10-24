@@ -6,9 +6,9 @@
 
 Ingeniero electricista con trayectoria en electrónica, electricidad,
 radiocomunicaciones, informática, docencia técnica y desarrollo de soluciones
-digitales. Busco una oportunidad **junior en mantenimiento electromecánico o
-soporte técnico en Tarragona y Cataluña**, donde aportar base técnica, capacidad de
-aprendizaje y experiencia resolviendo problemas con herramientas de software.
+digitales. Busco en mantenimiento electromecánico o soporte técnico donde aportar
+base técnica, capacidad de aprendizaje y experiencia, resolviendo además problemas
+con herramientas de software.
 
 ## Capacidades
 
