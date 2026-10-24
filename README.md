@@ -2,7 +2,7 @@
 
 > **Mantenimiento electromecánico y soporte técnico** — electricidad, electrónica,
 > radiocomunicaciones, IoT y software. Convierto datos de campo en decisiones y lo
-> demuestro con demos que se clonan, corren y dejan evidencia.
+> demuestro con casos reales y muestras de resultado.
 
 Ingeniero electricista con trayectoria en electrónica, electricidad,
 radiocomunicaciones, informática, docencia técnica y desarrollo de soluciones
@@ -12,7 +12,8 @@ aprendizaje y experiencia resolviendo problemas con herramientas de software.
 
 ## Capacidades
 
-Nueve capacidades, cada una con un repo que se clona, corre y produce evidencia:
+Nueve capacidades, cada una con un repositorio que muestra el **problema real**, qué
+hace la herramienta y una **muestra del resultado** (informe con marca de agua):
 
 | # | Capacidad | Repo |
 | --- | --- | --- |
