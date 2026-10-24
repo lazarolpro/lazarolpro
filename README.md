@@ -18,7 +18,7 @@ hace la herramienta y una **muestra del resultado** (informe con marca de agua):
 | # | Capacidad | Repo |
 | --- | --- | --- |
 | 1 | Diagnóstico y soporte técnico (causa raíz) | [rca-telemetria](https://github.com/lazarolpro/rca-telemetria) |
-| 2 | Ingeniería de aplicación e integración | [gateway-industrial](https://github.com/lazarolpro/gateway-industrial) |
+| 2 | Integración de sistemas | [gateway-industrial](https://github.com/lazarolpro/gateway-industrial) |
 | 3 | Automatización de datos | [etl-produccion](https://github.com/lazarolpro/etl-produccion) |
 | 4 | I+D y prototipado (firmware) | [nodo-sensor-esp32](https://github.com/lazarolpro/nodo-sensor-esp32) |
 | 5 | Validación y metrología | [banco-validacion-metrologia](https://github.com/lazarolpro/banco-validacion-metrologia) |
