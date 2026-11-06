@@ -25,7 +25,7 @@ Diez capacidades, cada una con un repositorio que muestra el **problema real**, 
 | 7 | Control climático e IoT (gemelo digital) | [invernadero-ecosmart](https://github.com/lazarolpro/invernadero-ecosmart) |
 | 8 | Radiocomunicaciones (enlace radio) | [radioenlace-backtoback](https://github.com/lazarolpro/radioenlace-backtoback) |
 | 9 | Asistente IA local (RAG) | [proyectia-asistente](https://github.com/lazarolpro/proyectia-asistente) |
-| 10 | Asistente IA local (RAG) | [proyectia-asistente](https://github.com/lazarolpro/proyectia-asistente) |
+| 10 | Recuperación-motor-trifásico-16kW | [proyectia-asistente](https://github.com/lazarolpro/proyectia-asistente) |
 
 Índice completo: [portafolio](https://github.com/lazarolpro/portafolio).
 
