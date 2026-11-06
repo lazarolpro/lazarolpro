@@ -1,19 +1,18 @@
 # Hola, soy Ronny L. Díaz López 👋
 
 > **Mantenimiento electromecánico y soporte técnico** — electricidad, electrónica,
-> radiocomunicaciones, IoT y software. Convierto datos de campo en decisiones y lo
+> radiocomunicaciones, IoT, software y hardware opensource. Convierto datos de campo en decisiones y lo
 > demuestro con casos reales y muestras de resultado.
 
 Ingeniero electricista con trayectoria en electrónica, electricidad,
-radiocomunicaciones, informática, docencia técnica y desarrollo de soluciones
-digitales. Busco en mantenimiento electromecánico o soporte técnico donde aportar
+radiocomunicaciones, informática, docencia técnica, proyectos sostenibles, Administración de Fincas y desarrollo de soluciones
+digitales. Busco en mantenimiento electromecánico y soporte técnico o en Gestión de Fincas/parcelas agroecológicas, donde aportar
 base técnica, capacidad de aprendizaje y experiencia, resolviendo además problemas
-con herramientas de software.
+complementado con herramientas de software y hardware.
 
 ## Capacidades
 
-Nueve capacidades, cada una con un repositorio que muestra el **problema real**, qué
-hace la herramienta y una **muestra del resultado** (informe con marca de agua):
+Diez capacidades, cada una con un repositorio que muestra el **problema real**, cuál es la solución implementada con uso de la herramienta y una **muestra del resultado** (informe con marca de agua):
 
 | # | Capacidad | Repo |
 | --- | --- | --- |
@@ -26,18 +25,20 @@ hace la herramienta y una **muestra del resultado** (informe con marca de agua):
 | 7 | Control climático e IoT (gemelo digital) | [invernadero-ecosmart](https://github.com/lazarolpro/invernadero-ecosmart) |
 | 8 | Radiocomunicaciones (enlace radio) | [radioenlace-backtoback](https://github.com/lazarolpro/radioenlace-backtoback) |
 | 9 | Asistente IA local (RAG) | [proyectia-asistente](https://github.com/lazarolpro/proyectia-asistente) |
+| 10 | Asistente IA local (RAG) | [proyectia-asistente](https://github.com/lazarolpro/proyectia-asistente) |
 
 Índice completo: [portafolio](https://github.com/lazarolpro/portafolio).
 
 ## Stack
 
 Electricidad y electrónica · radiocomunicaciones · diagnóstico de fallas ·
-Python 3 · C/C++ · SQL · Linux/Ubuntu · IoT (ESP32, Arduino, sensores, MQTT) ·
-React y FastAPI · Odoo CE · Git/GitHub · documentación y formación técnica.
+Python 3 · C/C++ · SQL · Linux/Ubuntu · IoT (Arduino, sensores, MQTT, otros) ·
+React y FastAPI · ERP Odoo CE · Git/GitHub · Gestión de proyectos sostenibles ·
+Administracion de Fincas/Parcelas agroecológicas · documentación y formación técnica.
 
 ## Contacto
 
 - GitHub: [@lazarolpro](https://github.com/lazarolpro)
 - LinkedIn: [linkedin.com/in/ronnydlop](https://linkedin.com/in/ronnydlop)
 - Email: ronnynations21@gmail.com
-- Ubicación: Tarragona, Cataluña (España) — disponibilidad inmediata; presencial, híbrido o remoto
+- Ubicación: Cataluña (España) — Ciudadano Español; disponibilidad inmediata; presencial, híbrido o remoto
